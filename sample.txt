@@ -1,0 +1,3 @@
+empId=1
+empName=Satya
+empSalary=20000
